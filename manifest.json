@@ -1,0 +1,13 @@
+{
+  "name": "Casual German Sender",
+  "description": "Converts outgoing text into informal German before sending.",
+  "authors": [
+    {
+      "name": "Xohus"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_locale_24px"
+  }
+}
