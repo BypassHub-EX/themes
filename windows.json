@@ -1,0 +1,346 @@
+{
+  "name": "Exponent XP Mobile",
+  "description": "A Kettu/mobile approximation of Saltssaumure's Exponent Windows XP Discord theme.",
+  "authors": [
+    {
+      "name": "Saltssaumure"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#FFFFFF"
+    ],
+    "HEADER_SECONDARY": [
+      "#B8CBE8"
+    ],
+    "TEXT_NORMAL": [
+      "#FFFFFF"
+    ],
+    "TEXT_PRIMARY": [
+      "#FFFFFF"
+    ],
+    "TEXT_SECONDARY": [
+      "#B8CBE8"
+    ],
+    "TEXT_MUTED": [
+      "#8FA8CC"
+    ],
+    "TEXT_LOW_CONTRAST": [
+      "#8FA8CC"
+    ],
+    "TEXT_LINK": [
+      "#38C438"
+    ],
+    "TEXT_LINK_LOW_SATURATION": [
+      "#108CE4"
+    ],
+    "TEXT_BRAND": [
+      "#0372FF"
+    ],
+    "TEXT_DANGER": [
+      "#E64D1C"
+    ],
+    "TEXT_POSITIVE": [
+      "#38C438"
+    ],
+    "TEXT_WARNING": [
+      "#AA5500"
+    ],
+
+    "BACKGROUND_PRIMARY": [
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#112233"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#111111"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#1665CA"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#111111"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#112233"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#111111"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#112233"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#112233"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#1665CA"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#1665CA"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#005AE7"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#AA550055"
+    ],
+
+    "CHAT_BACKGROUND": [
+      "#000000"
+    ],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": [
+      "#111111"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#111111"
+    ],
+
+    "CARD_PRIMARY_BG": [
+      "#112233"
+    ],
+    "TOAST_BG": [
+      "#111111"
+    ],
+    "TYPING_INDICATOR_BG": [
+      "#111111"
+    ],
+    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
+      "#111111"
+    ],
+    "VOICE_VIDEO_VIDEO_TILE_BACKGROUND": [
+      "#000000"
+    ],
+    "VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK": [
+      "#000000"
+    ],
+    "THEME_LOCKED_BLUR_FALLBACK": [
+      "#000000"
+    ],
+
+    "INTERACTIVE_NORMAL": [
+      "#B8CBE8"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#578CD0"
+    ],
+
+    "CHANNEL_ICON": [
+      "#108CE4"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#B8CBE8"
+    ],
+
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#008000"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#005AE7"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#1665CA"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#112233"
+    ],
+    "REDESIGN_INPUT_CONTROL_SELECTED": [
+      "#38C438"
+    ],
+    "BUTTON_OUTLINE_BRAND_BACKGROUND": [
+      "#0372FF"
+    ],
+    "BUTTON_OUTLINE_BRAND_BORDER": [
+      "#FFFFFF"
+    ],
+
+    "DIVIDER_STRONG": [
+      "#1665CA"
+    ],
+    "DIVIDER_SUBTLE": [
+      "#005AE7"
+    ],
+    "BORDER_SUBTLE": [
+      "#1665CA"
+    ],
+    "SPINE_DEFAULT": [
+      "#1665CA"
+    ],
+    "THREAD_CHANNEL_SPINE": [
+      "#108CE4"
+    ],
+
+    "SCROLLBAR_THIN_THUMB": [
+      "#1665CA"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "#000000"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#1665CA"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#000000"
+    ],
+
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#111111"
+    ],
+    "SPOILER_REVEALED_BACKGROUND": [
+      "#223344"
+    ],
+
+    "STATUS_DND": [
+      "#E64D1C"
+    ],
+    "STATUS_IDLE": [
+      "#AA5500"
+    ],
+    "STATUS_OFFLINE": [
+      "#808080"
+    ],
+    "STATUS_ONLINE": [
+      "#38C438"
+    ],
+    "STATUS_SPEAKING": [
+      "#108CE4"
+    ],
+    "STATUS_POSITIVE": [
+      "#38C438"
+    ],
+    "STATUS_POSITIVE_BACKGROUND": [
+      "#008000"
+    ],
+    "STATUS_POSITIVE_TEXT": [
+      "#FFFFFF"
+    ],
+    "STATUS_DANGER": [
+      "#E64D1C"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#C73207"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#FFFFFF"
+    ],
+    "STATUS_WARNING": [
+      "#AA5500"
+    ],
+    "STATUS_WARNING_BACKGROUND": [
+      "#AA5500"
+    ],
+    "STATUS_WARNING_TEXT": [
+      "#FFFFFF"
+    ],
+
+    "MENTION_BADGE": [
+      "#E64D1C"
+    ],
+    "REDESIGN_MENTION_BADGE": [
+      "#E64D1C"
+    ],
+    "WHITE": [
+      "#FFFFFF"
+    ],
+    "STAGE_CARD_PILL_BG": [
+      "#112233"
+    ]
+  },
+  "rawColors": {
+    "BLACK_500": "#00000050",
+
+    "BRAND": "#0372FF",
+    "BRAND_260": "#108CE4",
+    "BRAND_360": "#0372FF",
+    "BRAND_500": "#005AE7",
+    "BRAND_560": "#1665CA",
+
+    "BLUE_330": "#108CE4",
+    "BLUE_345": "#0372FF",
+    "BLUE_360": "#0372FF",
+    "BLUE_400": "#005AE7",
+    "BLUE_430": "#1665CA",
+    "BLUE_460": "#1665CA",
+    "BLUE_500": "#0066CC",
+
+    "GREEN_260": "#38C438",
+    "GREEN_330": "#38C438",
+    "GREEN_345": "#38C438",
+    "GREEN_360": "#008000",
+    "GREEN_400": "#008000",
+
+    "RED_400": "#E64D1C",
+    "RED_430": "#E64D1C",
+    "RED_500": "#C73207",
+    "RED_560": "#C73207",
+
+    "ORANGE_260": "#AA5500",
+    "ORANGE_300": "#AA5500",
+    "ORANGE_345": "#AA5500",
+    "ORANGE_360": "#AA5500",
+    "ORANGE_400": "#AA5500",
+
+    "YELLOW_260": "#F0EFED",
+    "YELLOW_300": "#EBE8D7",
+    "YELLOW_330": "#EBE8D7",
+
+    "PLUM_1": "#FFFFFF",
+    "PLUM_11": "#223344",
+    "PLUM_14": "#223344",
+    "PLUM_15": "#112233",
+    "PLUM_17": "#111111",
+    "PLUM_18": "#111111",
+    "PLUM_19": "#000000",
+    "PLUM_20": "#000000",
+    "PLUM_22": "#000000",
+    "PLUM_23": "#000000",
+    "PLUM_24": "#000000",
+
+    "PRIMARY": "#000000",
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_200": "#B8CBE8",
+    "PRIMARY_300": "#8FA8CC",
+    "PRIMARY_360": "#B8CBE8",
+    "PRIMARY_400": "#578CD0",
+    "PRIMARY_500": "#223344",
+    "PRIMARY_560": "#112233",
+    "PRIMARY_600": "#111111",
+    "PRIMARY_630": "#111111",
+    "PRIMARY_660": "#000000",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_800": "#000000",
+    "PRIMARY_900": "#000000",
+
+    "WHITE_500": "#FFFFFF"
+  },
+  "background": {
+    "url": "https://saltssaumure.github.io/xp-discord-theme/img/bliss.avif",
+    "blur": 0,
+    "alpha": 0.5,
+    "size": "cover",
+    "position": "center"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "solar"
+  },
+  "spec": 2,
+  "createdAt": "2026-06-19",
+  "source": "https://github.com/Saltssaumure/xp-discord-theme"
+}
